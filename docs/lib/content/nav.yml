@@ -8,7 +8,7 @@
   children:
   - title: npm
     url: /commands/npm
-    description: JavaScript package manager
+    description: Auditcript package manager
   - title: npm access
     url: /commands/npm-access
     description: Set access level on published packages
